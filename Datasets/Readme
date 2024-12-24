@@ -1,7 +1,0 @@
-## Description
-
-### Data
-The `data/` folder contains all the datasets used in various data wrangling examples.
-
-### Notebooks
-The Jupyter notebooks are located in the root directory and correspond to specific data wrangling tasks using the datasets.
